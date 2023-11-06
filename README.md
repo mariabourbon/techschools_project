@@ -21,7 +21,7 @@ Libraries and Imports:
 
 -re: used to perform pattern matching and string manipulation when extracting data from web pages. Regular expressions are essential for identifying and capturing specific patterns or information within the text, which is crucial for web scraping.
 
-- pandas: was employed to efficiently handle and manipulate data. We used DataFrames and Series provided by pandas to structure and organize the collected data for analysis.
+-pandas: was employed to efficiently handle and manipulate data. We used DataFrames and Series provided by pandas to structure and organize the collected data for analysis.
 
 -json_normalize: the json_normalize function in pandas was utilized to flatten and normalize JSON data. 
 
