@@ -1,6 +1,6 @@
 # techschools_project
 
-Global Tech School Data Collection and Analysis -Python and SQL
+Global Tech School Data Collection and Analysis -Python and MySQL
 
 Project Title: Global Tech School Data Collection and Analysis 
 
